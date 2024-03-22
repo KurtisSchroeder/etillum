@@ -1,0 +1,27 @@
+{
+  "name": "etillum",
+  "version": "1.0.0",
+  "description": "Expose GC at runtime without access to command node flags in command line for TS apps",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "keywords": [
+    "minima",
+    "gc",
+    "non",
+    "expose-gc",
+    "tenetur",
+    "repellat",
+    "quae"
+  ],
+  "author": "ConorFay",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KurtisSchroeder/etillum.git"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.3",
+    "typescript": "^4.8.4"
+  },
+  "homepage": "https://github.com/KurtisSchroeder/etillum.git"
+}
